@@ -11,4 +11,4 @@ _This project is based on a simulated forensic investigation conducted in an aca
 - Identified critical vulnerabilities including weak credentials, insecure file uploads, and improper access controls
 - Provided remediation recommendations aligned with OWASP and NIST standards
 
-# Tools Used: Kali Linux, Nmap, Hydra, Burp Suite, Metasploit, John the Ripper
+Tools Used: Kali Linux, Nmap, Hydra, Burp Suite, Metasploit, John the Ripper
